@@ -46,9 +46,11 @@
     width: 120px;
     position: absolute;
     align-items: center;
-    right: 0%;
+    right: 0;
     top: -1%;
     text-align: center;
+    background-color: brown;
+    color: antiquewhite;
 }
 .menu-text{
     font-size: 20px;
